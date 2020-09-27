@@ -1,0 +1,4 @@
+#Sun Sep 27 18:10:03 IST 2020
+base.0=/home/sourav/AndroidStudioProjects/m3-shapes/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
