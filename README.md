@@ -1,3 +1,5 @@
 # Shapes-App
 Area, Surface area and Perimeter of different Shapes.
-Simple Calculator for calculate area of shapes.
+Simple Calculator to calculate area of shapes.
+Give Some Reviews.
+Thank You.
